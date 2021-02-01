@@ -7,10 +7,10 @@
         GitHub Pages
         <br>
         <br>
-        [GitHub](https://github.com/ljanner)
+        <a href="https://github.com/ljanner">GitHub</a>
         •
-        [Website](https://loris.janner.dev/)
+        <a href="https://loris.janner.dev/">Website</a>
         •
-        [Gitlab](https://gitlab.com/ljanner)
+        <a href="https://gitlab.com/ljanner">Gitlab</a>
     </div>
 </div>
